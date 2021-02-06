@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = ""
+title = "Vox Populi"
 theme = "hermit"
 pygmentsCodefences = true
 pygmentsUseClasses = true
