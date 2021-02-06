@@ -13,7 +13,7 @@ themesDir = "themes"
 publishDir = "public"
 
 [author]
-name = ""
+name = "Vox"
 
 [taxonomies]
 tag = "tags"
