@@ -13,7 +13,7 @@ themesDir = "themes"
 publishDir = "public"
 
 [author]
-name = "John Doe"
+name = ""
 
 [taxonomies]
 tag = "tags"
